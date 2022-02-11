@@ -1,0 +1,2 @@
+# CypressPractice
+Practice cypress tests
